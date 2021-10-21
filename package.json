@@ -1,0 +1,19 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "Algo qui vérifie si une chaine de caractere est un palindome",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/Palindrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/Palindrome/issues"
+  },
+  "homepage": "https://github.com/rapatte/Palindrome#readme"
+}
